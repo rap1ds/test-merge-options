@@ -1,4 +1,4 @@
 # test-merge-options
 Test Github's merge options
 
-Commit 1
+Commit 2
